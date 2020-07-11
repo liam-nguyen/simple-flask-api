@@ -2,6 +2,7 @@
   <dictionary name="chinhnguyen">
     <words>
       <w>tablename</w>
+      <w>uwsgi</w>
     </words>
   </dictionary>
 </component>
